@@ -9,4 +9,4 @@ axis with gamma= 60 degree to get XYZ.
 Design a program to get the rotation matrix from xyz to XYZ.
 Design a program to get the rotation matrix from XYZ to xyz.
 
-![alt text](https://github.com/KNITPhoenix/Calculating-rotation-matrix-of-camera/blob/main/task1_des.png?raw=true)
+![alt text](https://github.com/KNITPhoenix/Calculating-rotation-matrix-of-camera/blob/main/task1_des.PNG?raw=true)
